@@ -1,0 +1,29 @@
+﻿body {
+  margin: 0;
+}
+
+.ContactView {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.ContactView-list {
+  padding: 0;
+}
+
+.ContactItem {
+  list-style: none;
+  text-align: center;
+}
+
+.ContactForm {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+}
+
+.ContactForm input, .ContactForm textarea {
+  margin: 5px;
+}

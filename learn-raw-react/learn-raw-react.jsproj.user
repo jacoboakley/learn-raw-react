@@ -6,5 +6,6 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>AppHostLocalDebugger</DebuggerFlavor>
+    <WindowsPhoneEmulatorID>617134C4-B2DB-4193-AEFD-66AC4322C107;Mobile Emulator 10.0.14393.0 QHD 5.2 inch 3GB</WindowsPhoneEmulatorID>
   </PropertyGroup>
 </Project>
